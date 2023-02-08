@@ -1,5 +1,5 @@
 # Brain-Tumor-prediction-clasifiction-project
-##Brain Tumor Prediction
+
 ### Overview
 This project aims to develop a deep learning model for the accurate prediction of brain tumors. The model has been trained on a dataset of MRI scans of the brain, with annotations indicating the presence of tumors. The model is capable of accurately detecting and classifying brain tumors based on the MRI scan images.
 
